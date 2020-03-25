@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:goldenrod;
+}
+
+
+
+body {
+    background-color: aqua;
+}
+
+h1{
+    font-size: 3rem;
+    font-weight: bold;
+    color: green;
+    padding:1.5rem;
+    text-align: center;
+}
+
+a{
+    color: darkred;
+    font-size: medium;
+}
